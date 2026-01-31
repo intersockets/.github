@@ -1,3 +1,3 @@
 # intersockets
 
-<img alt="any text you like" src="maintenance.svg">
+<img alt="any text you like" src="inmaintenance.svg">
