@@ -1,6 +1,6 @@
 # intersockets
 
-<img alt="any text you like" src="maintenance.svg">
+<img alt="build: in maintenance" src="maintenance.svg">
 
 **Discussion**
 
