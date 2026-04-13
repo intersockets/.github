@@ -1,6 +1,6 @@
 # intersockets
 
-<img alt="build: in maintenance" src="maintenance.svg">
+<img alt="build: in maintenance" src="https://github.com/intersockets/.github/blob/main/profile/maintenance.svg">
 
 -------
 
