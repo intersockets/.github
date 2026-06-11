@@ -1,6 +1,6 @@
 # intersockets
 
-<a href="https://www.npmjs.com/package/isoneword"><img src="https://img.shields.io/npm/d18m/isoneword.svg" /></a>
+<img src="https://img.shields.io/npm/d18m/isoneword.svg" />
 
 **Discussion**
 
